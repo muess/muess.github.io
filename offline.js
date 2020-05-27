@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1590609907,
+	"version": 1590611354,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,7 @@
 		"images/supertext-sheet0.png",
 		"images/donate_button-sheet0.png",
 		"images/donate_button-sheet1.png",
+		"images/fadein-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
