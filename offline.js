@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1590754051,
+	"version": 1590762577,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,8 +14,6 @@
 		"images/teni-sheet0.png",
 		"images/cross-sheet0.png",
 		"images/button-sheet0.png",
-		"images/button-sheet1.png",
-		"images/button-sheet2.png",
 		"images/supertext-sheet0.png",
 		"images/donate_button-sheet0.png",
 		"images/donate_button-sheet1.png",
