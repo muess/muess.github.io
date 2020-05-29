@@ -18430,9 +18430,9 @@ cr.behaviors.Fade = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Browser,
 	cr.plugins_.Function,
 	cr.plugins_.Mouse,
+	cr.plugins_.Browser,
 	cr.plugins_.Sprite,
 	cr.plugins_.Text,
 	cr.behaviors.Fade,
@@ -18483,4 +18483,3 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.system_object.prototype.acts.SetCanvasSize
 ];};
-
