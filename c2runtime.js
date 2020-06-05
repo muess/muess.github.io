@@ -18746,11 +18746,11 @@ cr.behaviors.Rotate = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
+	cr.plugins_.Browser,
 	cr.plugins_.Function,
 	cr.plugins_.Mouse,
 	cr.plugins_.Sprite,
 	cr.plugins_.Text,
-	cr.plugins_.Browser,
 	cr.behaviors.Fade,
 	cr.behaviors.Bullet,
 	cr.behaviors.Rotate,
