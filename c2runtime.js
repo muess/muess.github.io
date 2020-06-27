@@ -22083,13 +22083,17 @@ cr.behaviors.Rotate = function(runtime)
 	behaviorProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
+	cr.plugins_.Browser,
 	cr.plugins_.Function,
 	cr.plugins_.Mouse,
 	cr.plugins_.Keyboard,
 	cr.plugins_.Text,
+<<<<<<< HEAD
 	cr.plugins_.Sprite,
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
+=======
+>>>>>>> origin/master
 	cr.behaviors.Fade,
 	cr.behaviors.Bullet,
 	cr.behaviors.Rotate,
