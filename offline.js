@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1591295597,
+	"version": 1593297165,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,8 @@
 		"images/mu_cover-sheet2.png",
 		"images/mu_cover-sheet3.png",
 		"images/mu_cover-sheet4.png",
+		"images/mu_cover-sheet5.png",
+		"images/mu_cover-sheet6.png",
 		"images/shadow-sheet0.png",
 		"images/teni-sheet0.png",
 		"images/cross-sheet0.png",
@@ -24,6 +26,8 @@
 		"images/loader-sheet0.png",
 		"images/producedy-sheet0.png",
 		"images/rightbar-sheet0.png",
+		"images/pointer-sheet0.png",
+		"media/fuck.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
